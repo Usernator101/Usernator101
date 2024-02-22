@@ -1,8 +1,8 @@
 ## Hi there 👋
-<br>
+
 <img align="right" alt="Colix" width="180" src="https://github.com/YeahhColix/YeahhColix/blob/main/coleeeix.gif" />
-I'm Usernator101, but you can call me colix.<br>
-<br>
+I'm Usernator101, but you can call me colix.
+
 My main account is [@YeahhColix](https://github.com/YeahhColix).
 
 ### Stats 
