@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="Colix" width="180" src="https://images.colix.pages.dev/xiloc.png" />
+<img align="right" alt="Colix" width="180" src="https://cdn.colix.pages.dev/xiloc.png" />
 I'm xiloChhaeY, but you can call me colix.
 
 My main account is [@YeahhColix](https://github.com/YeahhColix).
